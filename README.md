@@ -1,7 +1,7 @@
 # Dominando a Lógica de Programação: Guia Definitivo para Iniciantes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este ebook é uma introdução concisa e prática aos fundamentos da programação. Começando com conceitos básicos como lógica de programação e algoritmos, o livro aborda também estruturas de controle como condicionais e loops, além de oferecer uma visão geral sobre estruturas de dados como arrays e listas. Com exemplos simples e exercícios práticos, é uma leitura essencial para iniciantes que desejam começar a programar de forma eficaz e sólida.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[HeroSpark](https://herospark.com/criar-produto)** para roteirização;
